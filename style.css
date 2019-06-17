@@ -72,13 +72,15 @@ select{border:0;}
 	position: relative;
 }
 .sousuo{
-	width:50px;
-	height:46px;
+	border-left:2px solid #cccccc;
+	width:54px;
+	height:45px;
 	position:absolute;
-	right:3px;
-	top:61px;
+	right:4px;
+	top:57px;
 	background-image:url('imgs/search.png');
 	background-repeat:no-repeat;
+	background-position:center;
 }
 .nav2 select{
 	margin-top:8px;
